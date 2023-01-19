@@ -1,3 +1,5 @@
+<a href=#><img src="contributions.svg"></a>
+
 - 👋 Hi, I’m @hamzasafdar01
 - 💞️ I’m looking to collaborate on my some opensource projects.
 - 📫 you can reach me at my email hamzasafdar01@gmail.com
