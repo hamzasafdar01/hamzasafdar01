@@ -1,6 +1,5 @@
 <a href=#><img src="contributions.svg"></a>
-
-👋 Hi, I’m @hamzasafdar01
+Hi 👋, I’m @hamzasafdar01
 
 I'm a software developer with experience in Java Spring Boot 🍃, Vue.js, Node.js, Python , Google Cloud Platform (GCP) services like App Engine and Cloud Run ☁️, Docker 🐳, Continuous Integration and Deployment (CI/CD), Firebase, WebSockets, and integrating with Stripe payment gateway 💳.
 
